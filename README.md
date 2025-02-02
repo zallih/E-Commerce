@@ -10,6 +10,6 @@
   Linguagem utilizada: <a href="https://react.dev/">React</a><br><br>
 ━━━━━━ • ✿ • ━━━━━━
 
-Acesse: <a href="">E-Commerce</a>
+Acesse: <a href="https://e-commerce-one-smoky-24.vercel.app/">E-Commerce</a>
 
 </div>
